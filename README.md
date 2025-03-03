@@ -42,6 +42,12 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="60" height="60"/> </a> <!----------postman------->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="60" height="60"/> </a> <!----------python------->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="60" height="60"/> </a> <!----------react------->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="react" width="60" height="60"/> </a> <!----------vscode------->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" alt="react" width="60" height="60"/> </a> <!----------visual studio------->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Premiere.svg" alt="react" width="60" height="60"/> </a> <!----------premierpro------->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AfterEffects.svg" alt="react" width="60" height="60"/> </a> <!----------after effects------->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Wordpress.svg" alt="react" width="60" height="60"/> </a> <!----------wordpress------->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="react" width="60" height="60"/> </a> <!--------android studio--------->
 </p>
 
 <!--- stats & Trophy (start) -->
